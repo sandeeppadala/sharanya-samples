@@ -4,5 +4,5 @@
     "windows": {
         "command": "explorer.exe"
     },
-    "args": ["table1.html"]
+    "args": ["index.html"]
 }
